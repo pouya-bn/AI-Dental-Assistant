@@ -1,5 +1,7 @@
 # AI Dental Assistant
 
+An AI assistant chatbot app that offers dental image analysis, dentist location services, dental appointment scheduling, and dental forums, enhancing user access to dental information and care.
+
 ## Screens
 
 <table>
@@ -44,3 +46,15 @@
     <td style="margin-left: 10px;"><img src="screens/24.jpg?raw=true" alt="24"></td>
   </tr>
 </table>
+
+## License
+
+![License](https://img.shields.io/badge/License-Portfolio%20Reference-red)
+
+Copyright (c) 2024 PAND co. All rights reserved.
+
+This repository is shared for **portfolio and educational reference only**.
+See [LICENSE](LICENSE) for permitted and prohibited uses.
+
+Third-party libraries, fonts, and vendored packages retain their own licenses.
+See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
